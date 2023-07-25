@@ -13,5 +13,4 @@ This is repository where I will post Leetcode Questions which is most asked by t
 ## Jane Street
 | Problem | Solution |
 | ------- | -------- |
-| [Count Common Words With One Occurrence
-](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Solution]() |
+| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Solution]() |
